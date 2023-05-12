@@ -1,0 +1,1 @@
+export const loginAction = (payload) => ({type:'add',payload})
